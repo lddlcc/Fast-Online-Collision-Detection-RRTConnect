@@ -8,8 +8,11 @@ This repository contains the implementation of our research on robotic arm path 
 
 ## Required Packages:
 OMPL, https://ompl.kavrakilab.org/index.html, for planner setup.
+
 MoveIt, https://moveit.ai/, for narrow environment setup.
+
 Armadillo, https://arma.sourceforge.net/, for matrix operations.
+
 mlpack, https://www.mlpack.org/index.html, for Spherical K-means Clustering
 
 
